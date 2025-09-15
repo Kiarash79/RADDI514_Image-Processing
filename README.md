@@ -1,6 +1,6 @@
 # RADDI514_Image-Processing
 
-This repository contains code and resources for image processing tasks, primarily developed for the RADDI514 course. It includes implementations of various image processing techniques and algorithms using Python.
+This repository contains code and resources for image processing tasks, primarily developed for the RADDI514 course. It includes implementations of various image processing techniques using traditional and ML Python libraries such as Tensorflow (via Keras).
 
 ## Features
 
