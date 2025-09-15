@@ -9,9 +9,3 @@ This repository contains code and resources for image processing tasks, primaril
 - Edge detection and segmentation algorithms
 - Morphological operations
 - Example scripts and sample datasets
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kiarash79/RADDI514_Image-Processing.git
